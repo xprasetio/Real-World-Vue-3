@@ -1,0 +1,23 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Konser Musik",
+            "location": "Jakarta",
+            "date": "2023-05-15"
+        },
+        {
+            "id": 2,
+            "name": "Pameran Seni",
+            "location": "Bandung",
+            "date": "2023-06-20"
+        },
+        {
+            "id": 3,
+            "name": "Festival Kuliner",
+            "location": "Yogyakarta",
+            "date": "2023-07-10"
+        }
+    ]
+    
+}
